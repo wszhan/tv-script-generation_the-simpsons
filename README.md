@@ -1,4 +1,4 @@
-# tv-script-generation_the-simpsons
+# TV Script Generation - *The Simpsons*
 
 ![The Simpsons](https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png)
 
